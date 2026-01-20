@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html style="font-size: 14px; font-family:tahoma;">
+<head>
+    <title>y0uareblessed</title>
+    <style>
+        .basebox{
+    width: 90%;
+    padding: 16px 16px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.6);
+    margin: auto;
+        }
+        .backbutton{
+    border: 1px solid gray;
+    background-color: greenyellow;
+    color: darkolivegreen;
+    padding: 6px 10px;
+    border-radius: 30px;
+        }
+        .backbutton:hover{
+    background-color: darkolivegreen;
+    color: greenyellow
+        }
+        .titlebox{
+    padding: 18px 32px;
+    width: 85%;
+        }
+        .greybox{
+    padding: 10px 32px;
+    width: 85%;
+    border: none;
+    transition-duration: 0.4s;
+    margin: auto;
+        }
+        .greybox:hover{
+    color: white;
+    background-color: gray;
+    border-radius: 20px;
+        }
+        .blackbox{
+    color: black;
+    padding: 10px 32px;
+    width: 85%;
+    border: 1px solid greenyellow;
+    transition-duration: 0.4s;
+    margin: auto;
+        }
+         .blackbox:hover{
+    color: whitesmoke;
+    background-color: black;
+    border-radius: 20px;
+    zoom: 1.1;
+         }
+    </style>
+</head>
+<body>
+<div class="basebox">
+    <a href="https://y0uarewelc0med.github.io/myblog"><button class="backbutton">🏠︎ Home</button></a>
+    <a href=""><button class="backbutton"> ← Previous Hub </button></a>
+    <a href=""><button class="backbutton"> → Next Hub </button></a>
+    <h1 class="titlebox" style="font-size: 35px; text-align: left;">y0uareblessed</h1>
+    <p style="text-align: center;">~~~~~~~~~~~~ 𖡼𖤣𖥧𖡼 y0uareblessed 𓋼𖤣𖥧𓋼𓍊 ~~~~~~~~~~~~</p>
+    <div class="greybox">
+        <p>Place for learning about deen, or faith.</p><p>May it helps you spiritually, mentally, and physically~</p>
+    </div>
+    <h3 class="titlebox" style="text-align: center;">Uploads🐼</h3>
+    <h4 id="section1">Halal Things</h4>
+    <a href="">
+        <div class="blackbox">
+            <p><b>Peek A Pig Privilege in Indonesian Muslim</b></p>
+            <p style="font-size: 12px;">(Sat, 29 Nov 2025) Living in majority religion that i believed what such a privilege. Also living in the island that most of them are muslim</p>
+            <p style="text-align: end; color: grey">read more >></p>
+        </div>
+	<div class="blackbox">
+            <p><b>A Bit Learning Halal, Internationally (Pig Products)</b></p>
+            <p style="font-size: 12px;">(Wed, 26 Nov 2025) Are you thinking i've heard this from muslim community? For this TED Talk, that's not the case.</p>
+            <p style="text-align: end; color: grey">read more >></p>
+        </div>
+    </a>
+    <br/>
+    <p style="text-align: center;">~~~~~~~~~~~~ 𖡼𖤣𖥧𖡼 y0uarewelc0med 𓋼𖤣𖥧𓋼𓍊 ~~~~~~~~~~~~</p>
+    <br/>
+    <div class="titlebox">written by Pan</div>
+    <br/>
+<style>.freebox{
+ border: 1px solid gray;
+ background-color: greenyellow;
+ color: darkolivegreen;
+ padding: 6px 10px;
+ border-radius: 30px;
+  }</style>
+<marquee scrollamount="4" behavior="alternate">
+    <button class="freebox">Free Palestine</button>
+    <button class="freebox">Free Congo</button>
+    <button class="freebox">Free Uyghur & East Turkistan</button>
+    <button class="freebox">Free Sudan</button>
+    <button class="freebox">Free Iran</button>
+    <button class="freebox">Free Indigenous People</button>
+    <button class="freebox">No to Nature Over-Exploitation</button>
+    <button class="freebox">Reset Indonesia</button>
+</marquee>
+</div>
+<br/><br/>
+<p style="text-align: center;">Copyright © 2026 y0uarewelc0med. All rights reserved</p>
+<br/>
+</body>
+</html>
